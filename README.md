@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lacoste27)]
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Lacoste27)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lacoste27&layout=compact)]
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Lacoste27)](https://github.com/Lacoste27/Lacoste27)
