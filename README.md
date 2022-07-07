@@ -9,9 +9,8 @@
 <br/>
 [![Java badge](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&labelColor=007396)](https://www.java.com/pt-BR/) [![Spring badge](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white&labelColor=6DB33F)](https://spring.io/) [![Hibernate badge](https://img.shields.io/badge/-Hibernate-59666C?logo=hibernate&logoColor=white&labelColor=59666C)](https://hibernate.org/) [![Maven badge](https://img.shields.io/badge/-Maven-C71A36?logo=apache-maven&logoColor=white&labelColor=C71A36)](https://maven.apache.org/) 
 <br/>
-[![C# Badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-<br/>
 [![PHP badge](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&labelColor=777BB4)](https://www.php.net/) [![Composer badge](https://img.shields.io/badge/-Composer-885630?logo=composer&logoColor=white&labelColor=885630)](https://getcomposer.org/) 	 
 <br/>
 [![Netbeans badge](https://img.shields.io/badge/-Netbeans-1B6AC6?logo=apache-netbeans-ide&logoColor=white&labelColor=1B6AC6)](https://netbeans.apache.org/) [![VS Code badge](https://img.shields.io/badge/-VS%20Code-5C2D91?logo=visual-studio&logoColor=white&labelColor=5C2D91)](https://code.visualstudio.com/) [![Sublime Text badge](https://img.shields.io/badge/-Sublime%20Text-FF9800?logo=sublime-text&logoColor=white&labelColor=FF9800)](https://www.sublimetext.com/)
+<br/>
 
