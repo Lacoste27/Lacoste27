@@ -1,5 +1,5 @@
 ### Github Streaks 🔥
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=Lacoste27&theme=monokai-metallian&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Poséidon" /></p>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Lacoste27&theme=monokai-metallian&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Poséidon" />
 
 ### Hi there 👋
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lacoste27&layout=compact)
