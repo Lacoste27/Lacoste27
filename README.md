@@ -7,9 +7,10 @@ Github Streaks 🔥
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Lacoste27&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Poséidon" />
 </p>
 
-
-### Hi there 👋
+<h3 align="center">
+Hi there 👋
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lacoste27&layout=compact)
+</h3>
 
 <!---
 ### My Skills 💻
