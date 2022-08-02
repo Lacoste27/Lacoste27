@@ -9,8 +9,11 @@ Github Streaks 🔥
 
 <h3 align="center">
 Hi there 👋
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lacoste27&layout=compact)
 </h3>
+  
+<p align="center">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lacoste27&layout=compact)
+</p>
 
 <!---
 ### My Skills 💻
