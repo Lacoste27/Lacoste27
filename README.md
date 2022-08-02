@@ -1,3 +1,5 @@
+
+<p align="center">
 ### Github Streaks 🔥
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Lacoste27&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Poséidon" />
 
@@ -17,4 +19,4 @@
 [![Netbeans badge](https://img.shields.io/badge/-Netbeans-1B6AC6?logo=apache-netbeans-ide&logoColor=white&labelColor=1B6AC6)](https://netbeans.apache.org/) [![VS Code badge](https://img.shields.io/badge/-VS%20Code-5C2D91?logo=visual-studio&logoColor=white&labelColor=5C2D91)](https://code.visualstudio.com/) [![Sublime Text badge](https://img.shields.io/badge/-Sublime%20Text-FF9800?logo=sublime-text&logoColor=white&labelColor=FF9800)](https://www.sublimetext.com/)
 <br/>-->
 
-
+</p>
