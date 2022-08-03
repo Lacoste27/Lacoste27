@@ -54,4 +54,9 @@ My Skills 💻
 <img src=https://img.shields.io/badge/-VS%20Code-%2300acee.svg?color=5C2D91&style=for-the-badge&logo=visual-studio&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </div>
 
+<div align="center">
+<img src=https://img.shields.io/badge/-C_Sharp-E34F26?color=1B6AC6&style=for-the-badge&logo=csharp&logoColor=white alt=html5 style="margin-bottom: 5px;" />
+
+</div>
+
 
