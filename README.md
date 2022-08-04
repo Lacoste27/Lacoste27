@@ -1,6 +1,13 @@
+
+
 <h3 align="center">
-Hi there 👋
+Hello 👋
 </h3>
+
+<div align="center">
+![Alt text](https://github.com/Lacoste27/Actions/blob/output/github-contribution-grid-snake.svg)
+<img src="https://github.com/Lacoste27/Actions/blob/output/github-contribution-grid-snake.svg">
+</div>
 
 <div align="center">
 <a href="https://linkedin.com/in/robsona-tsiory" target="_blank">
