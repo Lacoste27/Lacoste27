@@ -5,7 +5,6 @@ Hello 👋
 </h3>
 
 <div align="center">
-![Alt text](https://github.com/Lacoste27/Actions/blob/output/github-contribution-grid-snake.svg)
 <img src="https://github.com/Lacoste27/Actions/blob/output/github-contribution-grid-snake.svg">
 </div>
 
