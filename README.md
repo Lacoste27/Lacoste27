@@ -2,6 +2,7 @@
 
 <h3 align="center">
 Hello 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=366BF7&center=true&lines=Robsona+Tsiory+%F0%9F%90%8A)](https://git.io/typing-svg)
 </h3>
 
 <div align="center">
