@@ -5,7 +5,7 @@ Hello 👋
 </h3>
 
 <div align="center">
-<img src="[https://github.com/Lacoste27/Actions/blob/output/github-contribution-grid-snake.svg](https://readme-typing-svg.herokuapp.com?color=366BF7&center=true&lines=Robsona+Tsiory+%F0%9F%90%8A)">
+<img src="https://readme-typing-svg.herokuapp.com?color=366BF7&center=true&lines=Robsona+Tsiory+%F0%9F%90%8A">
 </div>
 
 <div align="center">
