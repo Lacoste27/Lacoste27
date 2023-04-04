@@ -42,10 +42,6 @@ My Skills 💻
 <img src=https://img.shields.io/badge/bootstrap-%ff5851db.svg?color=7952B3&style=for-the-badge&logo=bootstrap&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </div>
 
-<div align="center">
-<img src=https://img.shields.io/badge/-javascript-E34F26?color=gray&style=for-the-badge&logo=javascript&logoColor=F7DF1E alt=html5 style="margin-bottom: 5px;" />
-<img src=https://img.shields.io/badge/typescript-%2300acee.svg?color=1572B6&style=for-the-badge&logo=typescript&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</div>
 
 <div align="center">
 <img src=https://img.shields.io/badge/-java-E34F26?color=gray&style=for-the-badge&logo=java8&logoColor=F7DF1E alt=html5 style="margin-bottom: 5px;" />
